@@ -122,3 +122,165 @@ header{
     font-size: 30px;
 
 }
+.bloc3 {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.bloc3 p {
+    font-size: 20px;
+    color: rgb(47,193,174); ;
+}
+
+
+
+.bloc4 {
+    background-color: rgb(216,246,246);
+    height: 580px;
+    margin-top: 100px;
+    display: flex ;
+
+}
+
+.bloc4 .box .box1 {
+    background-color: rgb(255,255,255);
+    height: 230px;
+    width: 210px;
+    margin-top: 50px ;
+    
+    
+    
+    
+}
+
+.bloc4 .box .box2 {
+    background-color: rgb(255,255,255);
+    height: 230px;
+    width: 210px;
+    margin-top: 20px;
+    
+    
+}
+.bloc4 .box .box3 {
+    background-color: rgb(255,255,255);
+    height: 230px;
+    width: 210px;
+    margin-top: 80px ;
+    
+    
+    
+}
+
+.bloc4 .box .box4 {
+    background-color: rgb(255,255,255);
+    height: 230px;
+    width: 210px;
+    margin-top: 40px;
+   
+    
+}
+.bloc4 .box {
+    display: grid;
+    grid-template-columns: 220px 210px;
+    grid-template-rows: 240px 240px;
+    margin-left: 100px;
+   
+    
+    
+} 
+
+
+.bloc4 .area {
+     margin-left: 190px;
+     margin-right: 20px;
+     margin-top: 50px;
+     color: rgb(0,179,167);
+}
+
+
+.bloc5 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+
+.bloc5 .paragragh {
+    font-size: 30px;
+    color:  rgb(0,179,167);
+}
+
+
+
+
+.bloc6 {
+    background-color: brown;
+    width: 1000px;
+    text-align: center;
+    margin-left: 180px;
+    display: grid;
+    grid-template-columns:310px 310px 310px  ;
+    grid-template-rows: 380px 380px 380px ;
+    margin-top: 80px;
+}
+
+
+
+.bloc6 .dim {
+    height: 350px;
+    width: 310px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.bloc7 {
+    margin-top: 80px ;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
