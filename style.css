@@ -118,18 +118,24 @@ header{
 }
 
 
-.bloc2 .pays .option{
-    font-size: 30px;
+.bloc2 .pays option{
+    font-size: 20px;
 
 }
+.bloc2 img {
+   margin-right: 250px;
+   margin-top: 10px;
+}
+
 .bloc3 {
     display: flex;
     justify-content: space-around;
     
+    
 }
 
 .bloc3 p {
-    font-size: 20px;
+    font-size: 30px;
     color: rgb(47,193,174); ;
 }
 
@@ -185,18 +191,36 @@ header{
     grid-template-columns: 220px 210px;
     grid-template-rows: 240px 240px;
     margin-left: 100px;
+    text-align: center;
    
     
     
 } 
+.bloc4 .box img {
+    margin-top: 8px;
+}
+
+.bloc4 .box .paragraph {
+    font-size: large;
+    color: rgb(0,192,210);
+}
 
 
 .bloc4 .area {
      margin-left: 190px;
      margin-right: 20px;
      margin-top: 50px;
-     color: rgb(0,179,167);
+     
 }
+
+
+.bloc4 .area h1 {
+    color: rgb(0,179,155);
+}
+ 
+
+
+
 
 
 .bloc5 {
@@ -214,42 +238,41 @@ header{
 
 
 .bloc6 {
-    background-color: brown;
     width: 1000px;
     text-align: center;
     margin-left: 180px;
     display: grid;
-    grid-template-columns:310px 310px 310px  ;
-    grid-template-rows: 380px 380px 380px ;
+    grid-template-columns:315px 315px 315px  ;
+    grid-template-rows: 400px 400px 400px ;
     margin-top: 80px;
+
 }
 
 
 
-.bloc6 .dim {
+.bloc6 .ig .dim {
     height: 350px;
-    width: 310px;
+    width: 300px;
 }
 
 
+.bloc6 .ig {
+    font-size:large;
+    color: rgb(138,116,116);
+    cursor: pointer;
+
+} 
 
 
+.bloc6 .ig a {
+    font-size:10px;
+    color: rgb(243,255,255);
+    text-decoration: none;
+    background-color: blue;
+    padding: 10px;
+    margin-left: 20px;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 
 
@@ -258,6 +281,26 @@ header{
     text-align: center;
     margin-bottom: 100px;
 }
+
+
+.bloc7 .paragraph {
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.bloc7 a {
+    padding: 15px;
+    color: white;
+    background-color: blue;
+    text-decoration: none;
+}
+
+
+.bloc8 .pieds {
+    text-align: center;
+}
+
+ 
 
 
 
